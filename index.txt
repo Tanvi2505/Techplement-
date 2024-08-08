@@ -1,0 +1,23 @@
+<section id="courses">
+            <div class="container">
+                <h2>Featured Courses</h2>
+                <div class="course-grid">
+                    <div class="course-card" data-course-id="1">
+                        <h3>HTML & CSS Fundamentals</h3>
+                        <p>Learn the basics of web development with HTML & CSS.</p>
+                        <button class="enroll-btn">Enroll Now</button>
+                    </div>
+                    <div class="course-card" data-course-id="2">
+                        <h3>Advanced JavaScript</h3>
+                        <p>Deep dive into JavaScript to build dynamic and interactive web applications.</p>
+                        <button class="enroll-btn">Enroll Now</button>
+                    </div>
+                    <div class="course-card" data-course-id="3">
+                        <h3>Full-Stack Web Development</h3>
+                        <p>Master both front-end and back-end technologies to become a full-stack developer.</p>
+                        <button class="enroll-btn">Enroll Now</button>
+                    </div>
+                    <!-- Add more courses as needed -->
+                </div>
+            </div>
+        </section>
